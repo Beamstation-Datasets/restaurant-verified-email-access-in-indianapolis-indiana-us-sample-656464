@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Indianapolis, Indiana, US
 
-> Free BeamStation sample export with 59 rows and masked direct-contact fields.
+> Free BeamStation sample export with 56 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `656464` |
 | Location | Indianapolis |
 | Category | Restaurants |
-| Full dataset size | 593 records |
-| Free sample size | 59 records (9.95%) |
-| Last export | 2026-04-07T22:44:49.160941+00:00 |
+| Full dataset size | 565 records |
+| Free sample size | 56 records (9.91%) |
+| Last export | 2026-04-15T04:29:23.690932+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-indianapolis-indiana-us-sample-656464/releases/download/sample-latest/beamstation_656464_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
